@@ -2,6 +2,10 @@
 
 Projet **iTunes App**
 
+## Tests effectués
+
+J'ai effectué les tests de l'application via un build development sur Android ainsi que sur Web
+
 ## Prérequis
 
 [Node.js](https://nodejs.org/)
