@@ -1,4 +1,4 @@
-# 🎵 iTunes App
+# iTunes App
 
 Projet **iTunes App**
 
@@ -12,8 +12,10 @@ Projet **iTunes App**
 
 ```bash
 npm install
+```
 
 ### 2. Lancement de l'application
 
 ```bash
 npm start
+```
